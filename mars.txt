@@ -3,4 +3,7 @@ Mars is often called the red planet.
 Mars has a thin atmosphere.
 There is a robot living on it.
 Update.
-Mars has 2 moons. One is called Z.
+
+Mars has 2 moons. One is called Zeimos.
+and the other is called Phobos.
+
